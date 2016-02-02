@@ -1,0 +1,3 @@
+ofxDatGui
+ofxJSON
+ofxTextSuite
